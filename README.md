@@ -1,3 +1,4 @@
+
 # LeafCare Image Analysis
 
 LeafCare Image Analysis is a Streamlit-based application wrapped in a Docker container designed to classify plant diseases from images. This application uses a pre-trained Convolutional Neural Network (CNN) to predict the type of disease affecting a plant based on its leaf image.
@@ -7,6 +8,10 @@ LeafCare Image Analysis is a Streamlit-based application wrapped in a Docker con
 - **Image Upload**: Users can upload images of plant leaves to diagnose potential diseases.
 - **Disease Prediction**: Utilizes a trained CNN model to classify diseases from images.
 - **Interactive UI**: Built with Streamlit, offering an intuitive user interface for easy interaction.
+
+## Interactive Web App
+
+For an interactive experience, you can visit and use the web application hosted on Hugging Face Spaces at [LeafCare on Hugging Face Spaces](https://huggingface.co/spaces/Shubham235/LeafCare).
 
 ## Getting Started
 
@@ -60,9 +65,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Shubham235Chandra)
 
-See also the list of [contributors](https://your-repository-url/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Shubham235Chandra/LeafCare-Image-Analysis) who participated in this project.
 
 ## License
 
@@ -76,7 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Dataset
 
 This project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) hosted on Kaggle, which contains images of plant leaves categorized by disease types.
-
-## Acknowledgements
-
-- [Streamlit](https://streamlit.io/) for the awesome framework.
