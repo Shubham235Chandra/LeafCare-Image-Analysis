@@ -76,3 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Dataset
 
 This project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) hosted on Kaggle, which contains images of plant leaves categorized by disease types.
+
+## Acknowledgements
+
+- [Streamlit](https://streamlit.io/) for the awesome framework.
