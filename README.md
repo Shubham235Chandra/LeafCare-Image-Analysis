@@ -28,7 +28,7 @@ You need to have Docker installed on your machine to run the application in a co
 Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://https://github.com/Shubham235Chandra/LeafCare-Image-Analysis.git
 cd into-the-project-directory
 ```
 
